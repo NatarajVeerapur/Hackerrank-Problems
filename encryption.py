@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/encryption/problem
 import math
 s="haveaniceday"
 s1=""
